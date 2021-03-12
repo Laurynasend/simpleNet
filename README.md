@@ -41,6 +41,5 @@ Extra:
 
 Comments - simpleNet was a great way to broaden my knowledge on a subject that is on the forefront of almost every new AI research or inovation - Deep Learning. This project helped to get a better grasp of neural network fundamentals which are a necessity for creating advanced real - life solution oriented AI's.
 
-Sources:
-Great book that guided me through the beginning of Deep Learning journey:
-Neural Networks from Scratch in Python by Harrison Kinsley & Daniel Kukieła
+
+Great book that guided me through the beginning of Deep Learning journey - Neural Networks from Scratch in Python by Harrison Kinsley & Daniel Kukieła. I recommend this book for anyone who is interested in neural networks, but do not know where to start.
